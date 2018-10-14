@@ -1,0 +1,33 @@
+header{
+    color:rgb(236, 238, 139);
+    background-color: black;
+    border-radius:20px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(158, 85, 140);
+    text-align: center
+}
+p{
+    color: rgb(245, 212, 169)
+}
+
+ul{
+    list-style: none; 
+    text-align: center;  
+}
+img{
+    height: 300px;
+    width: 450px;
+    border-radius: 20px
+}
+a{
+    color: antiquewhite;
+}
+footer{
+    width: 800px;
+    display: block;
+    color: rgb(236, 238, 139);
+    background-color: black
+}

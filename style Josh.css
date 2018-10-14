@@ -1,0 +1,21 @@
+body {
+    background-color: tomato;
+}
+p{
+    color:white;
+    font-size: 25px;
+}
+img {
+    height: 175px;
+    width:  200px;
+    border-style: solid;
+    border-width: 20px;
+    border-color: white;
+
+
+}
+li{
+    list-style: none; 
+    color: white;
+    font-size: 25px;
+}
